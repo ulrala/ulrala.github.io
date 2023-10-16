@@ -1,5 +1,5 @@
 ---
-title: "how to write your first blog"
+title: "how to write my first blog"
 date: "2023-10-16"
 summary: ""
 ---
