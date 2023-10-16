@@ -6,5 +6,4 @@ summary: ""
 
 go to content/blogs, set up new folder, set a new file under the folder, type "index.md"
 
-how to set 
 
